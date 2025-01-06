@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome to my GitHub
 
-My name is Kenneth SSchuetz. I a graduate of Full Sail University with a Bechelors for Game Art in Computer Science. I am currently back in school for the Game Development degree program. In my free time, I enjoy programing, making environments with 3ds Max, Unreal and more. If you would like to know more just ask me!
+My name is Kenneth Schuetz. I a graduate of Full Sail University with a Bechelors for Game Art in Computer Science. I am currently back in school for the Game Development degree program. In my free time, I enjoy programing, making environments with 3ds Max, Unreal and more. If you would like to know more just ask me!
 
 * 🔭 I’m currently working on ...
   - A Lumbermill for the Titan Art Jam by Epic Games, and a Second Bachelors in Game Development from Full Sail University.
