@@ -1,12 +1,23 @@
-## Hi there 👋, Welcome to my GitHub
+## Hi there 👋 I'm Kenneth Schuetz
 
-My name is Kenneth Schuetz. I am a graduate of Full Sail University with a Bechelors for Game Art in Computer Science. I am currently back in school for the Game Development degree program. In my free time, I enjoy programing, making environments with 3ds Max, Unreal and more. If you would like to know more just ask me!
+Game Developer & Software Engineer | U.S. Army Veteran | Founder of @MstSageEntertainment
 
-* 🔭 I’m currently working on ...
-  - A Lumbermill for the Titan Art Jam by Epic Games, and a Second Bachelors in Game Development from Full Sail University.
-* 🌱 I’m currently learning ...
-  - C++. C#
-* 📫 How to reach me: ...
-  - Twitter/X (RaneMstSage), LinkedIn (kenneth-schuetz)
-* ⚡ Fun fact: ...
-  - I am a US Army Veteran, I love to learn, and believe you should always be learning.
+Dual BS degrees from Full Sail University — Game Development (2026) and Game Art (2020). I build gameplay systems, rendering pipelines, and developer tooling in C++, Unreal Engine 5, and Vulkan.
+
+### Currently Working On
+- **Crownfall** — RTS in UE5 (C++). Fog of war, camera systems, unit selection, diplomacy-driven commands. Team BlackboxForge.
+- **MaxDropper** — Custom 3ds Max scene exporter (JSON/OBJ) for game engine pipelines.
+
+### Tech I Work With
+**Languages:** C++, C#, Python, Ruby, Lua, JavaScript, PHP, SQL
+**Engines:** Unreal Engine 5, Unity, Vulkan, OpenGL
+**Version Control:** Git, Subversion, Perforce
+**Tools:** Rider, Visual Studio, Neovim, Jira, Redmine, Docker
+
+### Previous Projects
+- **Project '88** — Helicopter combat game built with Vulkan, C++, and EnTT ECS
+- **sage-vcs.nvim** — Neovim plugin for unified Git/SVN integration
+
+### Connect
+- [LinkedIn](https://linkedin.com/in/kenneth-schuetz)
+- [Portfolio](https://kennethschuetz.com)
